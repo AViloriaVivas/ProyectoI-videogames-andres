@@ -1,0 +1,69 @@
+.form {
+  background-color: rgb(7, 0, 0);
+  display: grid;
+  place-content: center;
+  align-content: stretch;
+  justify-content: stretch;
+  gap: 0.5em;
+  width: auto;
+  height: auto;
+  padding: 2em;
+  border-style: solid;
+  border-radius: 1em;
+  margin-top: 4em;
+}
+
+.page {
+  margin-top: auto;
+  height: 100vh;
+  width: 100%;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  padding-top: 1.75em;
+  padding-bottom: 1em;
+  font-family: "Silkscreen", cursive;
+  background-image: url("../../img/360290.jpg");
+  background-position: center;
+  background-repeat: no-repeat;
+  background-attachment: fixed;
+  background-size: cover;
+}
+
+.asterisco {
+  color: rgba(228, 70, 7, 0.995);
+}
+
+.form {
+  color: rgb(255, 255, 255);
+  border: none;
+  width: 32%;
+  height: 55%;
+}
+
+.page input {
+  border-radius: 10px;
+  background-color: rgba(255, 255, 255, 0.834);
+}
+
+.enviar {
+  border-radius: 10px;
+  font-family: "Silkscreen", cursive;
+  font-size: large;
+  background-color: rgba(228, 70, 7, 0.995) !important;
+  color: azure;
+  width: 5em;
+  margin-top:2em ;
+  margin-left: 9em;
+  border: 2px solid black;
+}
+
+.select {
+  border-radius: 10px;
+  background-color: rgba(228, 70, 7, 0.637);
+}
+
+.textDescription {
+  border-radius: 10px;
+  background-color: rgba(255, 255, 255, 0.834);
+}

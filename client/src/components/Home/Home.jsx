@@ -79,7 +79,7 @@ const Home = () => {
           <div className={styles.items}>
             <div className={styles.titles}><img
               className={styles.imgf}
-              src="https://cdn.icon-icons.com/icons2/936/PNG/512/sort-by-attributes-interface-button-option_icon-icons.com_73405.png"
+              src="https://cdn.icon-icons.com/icons2/904/PNG/512/sort-2_icon-icons.com_69583.png"
               alt="oreders"/></div>
             <span>Name</span>
             <div className={styles.order}>

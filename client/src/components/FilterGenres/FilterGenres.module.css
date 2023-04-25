@@ -1,9 +1,12 @@
 .button {
   font-family: "Silkscreen", cursive;
   cursor: pointer;
+  background-color: rgb(219, 62, 4);
+  border-radius: 3em;
 }
 
 .genres {
   width: 12.9em;
   height: 1.7em;
+  border-radius: 3em;
 }

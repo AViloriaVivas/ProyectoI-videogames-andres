@@ -48,7 +48,7 @@ const FilterGenres = ({ setPage }) => {
         </select>
         <span>
           <button className={styles.button} onClick={(e) => handleOnClick(e)}>
-            x
+            X
           </button>
         </span>
         <br />
